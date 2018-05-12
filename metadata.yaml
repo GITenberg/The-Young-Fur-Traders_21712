@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
 description: Young Charley Kennedy leaves home to live the perilous life of a fur
   trader in the Red River Settlement of Canada.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21712#The-Young-Fur-Traders
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-06-06'
 gutenberg_type: Text
